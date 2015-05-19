@@ -1,0 +1,31 @@
+.bluebox {
+	background-color: blue;
+	height: 400px;
+	width: 100px;
+	float: left;
+}
+
+.greenbox {
+	background-color: aqua;
+	height: 400px;
+	width: 100px;
+	float: left;
+}
+
+.yellowbox {
+	background-color: lime;
+	height: 400px;
+	width: 100px;
+	float: left;
+}
+
+.redbox {
+	background-color: red;
+	height: 75px;
+	width: 100px;
+	float: left;
+	margin-left: 200px;
+	margin-top: -75px;
+	color: white;
+	font-size: 10;
+}
