@@ -1,0 +1,23 @@
+.bluebox {
+	background-color: blue;
+	height: 100px;
+	width: 400px;
+}
+
+.aquabox {
+	background-color: aqua;
+	height: 100px;
+	width: 400px;;
+}
+
+.limebox {
+	background-color: lime;
+	height: 100px;
+	width: 400px;
+}
+
+.yellowbox {
+	background-color: yellow;
+	height: 100px;
+	width: 400px;
+}
